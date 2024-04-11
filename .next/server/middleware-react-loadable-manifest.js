@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"index.js -> react-modal-video":{"id":"index.js -> react-modal-video","files":["static/chunks/node_modules_react-modal-video_lib_index_js.js"]}}
